@@ -2,6 +2,6 @@ USTH Deep Learning 2026
 =========================
 
 
-* Your name here
-* (your nickname here, e.g. Mr. Orange, Mr. MISA, Mr. Macbook....)
+* Chu Hoang Viet - 2540111
+* SneakersV
 
