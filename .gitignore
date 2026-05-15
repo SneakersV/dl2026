@@ -6,3 +6,4 @@
 *.tex
 nn.txt
 */figures/*
+.gitignore
