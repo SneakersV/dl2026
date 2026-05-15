@@ -1,4 +1,8 @@
-.aux
-.log
-.out
-.gz
+*.aux
+*.log
+*.out
+*.gz
+*.png
+*.tex
+nn.txt
+*/figures/*
